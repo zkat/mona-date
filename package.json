@@ -1,6 +1,6 @@
 {
   "name": "@mona/date",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "English natural-language-like date parser for mona",
   "main": "lib/index.js",
   "files": [
